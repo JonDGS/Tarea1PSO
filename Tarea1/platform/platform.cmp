@@ -1,12 +1,12 @@
 	component platform is
 		port (
 			clk_clk                                    : in  std_logic                    := 'X';             -- clk
-			pio_display_0_external_connection_export   : out std_logic_vector(7 downto 0);                    -- export
-			pio_display_1_external_connection_export   : out std_logic_vector(7 downto 0);                    -- export
-			pio_display_2_external_connection_export   : out std_logic_vector(7 downto 0);                    -- export
-			pio_display_3_external_connection_export   : out std_logic_vector(7 downto 0);                    -- export
-			pio_display_4_external_connection_export   : out std_logic_vector(7 downto 0);                    -- export
-			pio_display_5_external_connection_export   : out std_logic_vector(7 downto 0);                    -- export
+			pio_display_0_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_display_1_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_display_2_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_display_3_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_display_4_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_display_5_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
 			pio_sw_init_external_connection_export     : in  std_logic                    := 'X';             -- export
 			pio_sw_selector_external_connection_export : in  std_logic_vector(1 downto 0) := (others => 'X'); -- export
 			pio_sw_stop_external_connection_export     : in  std_logic                    := 'X';             -- export
