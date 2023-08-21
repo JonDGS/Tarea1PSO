@@ -96,6 +96,12 @@ int start=0;
 
 typedef int digits_t[6];
 
+/** @brief Divides the digits of number into an array
+*		   numberDigits
+*	@param number: number being divide on the array
+*	@param numberDigits: array storing the digits
+*	@return void
+**/
 void divideDigits(int number, digits_t numberDigits){
 	int i;
 	int currentDigit;
@@ -108,12 +114,22 @@ void divideDigits(int number, digits_t numberDigits){
 	}
 
 }
+
+/** @brief Return the corresponding display code for a
+*		   digit going to the display
+*	@param digit: Number being converted
+*	@return int numbers' display code
+**/
 int getDigitDisplay(int digit){
 
 	int digits[10]={64,121,36,48,25,18,2,120,0,16};
 	return digits[digit];
 }
 
+/** @brief Adds the converted digit back to digits array
+*	@param digits: Array of digits being displayed
+*	@return void
+**/
 void numberDisplayDigits(digits_t digits){
 
 	int i;
@@ -124,6 +140,10 @@ void numberDisplayDigits(digits_t digits){
 
 }
 
+/** @brief Writes the digits to the 7 segments on the FPGA
+*	@param digits: Array of digits being displayed
+*	@return void
+**/
 void writeDisplays(digits_t digits){
 	numberDisplayDigits(digits);
 	IOWR_ALTERA_AVALON_PIO_DATA(PIO_DISPLAY_0_BASE, digits[0]);
@@ -134,6 +154,10 @@ void writeDisplays(digits_t digits){
 	IOWR_ALTERA_AVALON_PIO_DATA(PIO_DISPLAY_5_BASE, digits[5]);
 
 }
+
+/** @brief Runs a cycle of the miliseconds mode
+*	@return void
+**/
 static void timer_miliseconds(){
 	miliseconds++;
 	digits_t digits={0,0,0,0,0,0};
@@ -141,6 +165,9 @@ static void timer_miliseconds(){
 	writeDisplays(digits);
 }
 
+/** @brief Runs a cycle of the seconds mode
+*	@return void
+**/
 static void timer_seconds(){
 	miliseconds++;
 	seconds+= (miliseconds/1000);
@@ -149,6 +176,11 @@ static void timer_seconds(){
 	divideDigits(seconds,digits);
 	writeDisplays(digits);
 }
+
+/** @brief Runs a cycle of the minutes, seconds
+*		   and miliseconds mode
+*	@return void
+**/
 static void timer_full(){
 	miliseconds++;
 	seconds+=miliseconds/1000;
@@ -188,6 +220,9 @@ static void timer_full(){
 	writeDisplays(digits);
 }
 
+/** @brief Runs the interrupt for timer
+*	@return void
+**/
 static void timer_isr(void *context)
 {
 	(void) context;
@@ -202,11 +237,18 @@ static void timer_isr(void *context)
 }
 
 
+/** @brief Runs the interrupt for stopping
+*	@return void
+**/
 static void stop_isr(void *context)
 {
 	stop=1;
 
 }
+
+/** @brief Runs the interrupt for starting
+*	@return void
+**/
 static void start_isr(void *context)
 {
 	if(start==0){
