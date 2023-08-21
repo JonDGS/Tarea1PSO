@@ -1,24 +1,8 @@
-22:33:58 **** Build of configuration Nios II for project Cronometro ****
+20:21:29 **** Build of configuration Nios II for project Cronometro ****
 wsl make mem_init_generate 
-Info: Building /mnt/c/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/
-make --no-print-directory -C /mnt/c/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/
+Info: Building /mnt/c/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/
+make --no-print-directory -C /mnt/c/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/
 [BSP build complete]
-Post-processing to create mem_init/platform_ram_0.hex...
-elf2hex.exe C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro/Cronometro.elf 0x00004000 0x00004fff --width=32 --little-endian-mem --create-lanes=0 mem_init/platform_ram_0.hex
-Post-processing to create mem_init/platform_rom_0.hex...
-elf2hex.exe C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro/Cronometro.elf 0x00000000 0x00003fff --width=32 --little-endian-mem --create-lanes=0 mem_init/platform_rom_0.hex
-Post-processing to create mem_init/hdl_sim/platform_ram_0.dat...
-elf2dat --infile=C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro/Cronometro.elf --outfile=mem_init/hdl_sim/platform_ram_0.dat \
-	--base=0x00004000 --end=0x00004fff --width=32 \
-	--little-endian-mem --create-lanes=0 
-Post-processing to create mem_init/hdl_sim/platform_rom_0.dat...
-elf2dat --infile=C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro/Cronometro.elf --outfile=mem_init/hdl_sim/platform_rom_0.dat \
-	--base=0x00000000 --end=0x00003fff --width=32 \
-	--little-endian-mem --create-lanes=0 
-Post-processing to create mem_init/hdl_sim/platform_ram_0.sym...
-nios2-elf-nm.exe -n C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro/Cronometro.elf > mem_init/hdl_sim/platform_ram_0.sym
-Post-processing to create mem_init/hdl_sim/platform_rom_0.sym...
-nios2-elf-nm.exe -n C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro/Cronometro.elf > mem_init/hdl_sim/platform_rom_0.sym
 
-22:33:59 Build Finished (took 1s.163ms)
+20:21:30 Build Finished (took 879ms)
 

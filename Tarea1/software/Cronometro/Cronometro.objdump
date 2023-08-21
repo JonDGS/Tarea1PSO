@@ -35,41 +35,41 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY
   9 .debug_aranges 000003f8  00000000  00000000  00003630  2**3
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_info   0000f3a9  00000000  00000000  00003a28  2**0
+ 10 .debug_info   0000f3ab  00000000  00000000  00003a28  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_abbrev 00003615  00000000  00000000  00012dd1  2**0
+ 11 .debug_abbrev 00003626  00000000  00000000  00012dd3  2**0
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_line   000032d8  00000000  00000000  000163e6  2**0
+ 12 .debug_line   000032d5  00000000  00000000  000163f9  2**0
                   CONTENTS, READONLY, DEBUGGING
- 13 .debug_frame  000007d8  00000000  00000000  000196c0  2**2
+ 13 .debug_frame  000007d8  00000000  00000000  000196d0  2**2
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_str    00001835  00000000  00000000  00019e98  2**0
+ 14 .debug_str    0000182f  00000000  00000000  00019ea8  2**0
                   CONTENTS, READONLY, DEBUGGING
- 15 .debug_loc    000008e5  00000000  00000000  0001b6cd  2**0
+ 15 .debug_loc    000008e5  00000000  00000000  0001b6d7  2**0
                   CONTENTS, READONLY, DEBUGGING
- 16 .debug_alt_sim_info 00000010  00000000  00000000  0001bfb4  2**2
+ 16 .debug_alt_sim_info 00000010  00000000  00000000  0001bfbc  2**2
                   CONTENTS, READONLY, DEBUGGING
- 17 .debug_ranges 00000170  00000000  00000000  0001bfc8  2**3
+ 17 .debug_ranges 00000170  00000000  00000000  0001bfd0  2**3
                   CONTENTS, READONLY, DEBUGGING
- 18 .thread_model 00000003  00000000  00000000  0001d814  2**0
+ 18 .thread_model 00000003  00000000  00000000  0001d818  2**0
                   CONTENTS, READONLY
- 19 .cpu          0000000c  00000000  00000000  0001d817  2**0
+ 19 .cpu          0000000c  00000000  00000000  0001d81b  2**0
                   CONTENTS, READONLY
- 20 .qsys         00000001  00000000  00000000  0001d823  2**0
+ 20 .qsys         00000001  00000000  00000000  0001d827  2**0
                   CONTENTS, READONLY
- 21 .simulation_enabled 00000001  00000000  00000000  0001d824  2**0
+ 21 .simulation_enabled 00000001  00000000  00000000  0001d828  2**0
                   CONTENTS, READONLY
- 22 .stderr_dev   00000004  00000000  00000000  0001d825  2**0
+ 22 .stderr_dev   00000004  00000000  00000000  0001d829  2**0
                   CONTENTS, READONLY
- 23 .stdin_dev    00000004  00000000  00000000  0001d829  2**0
+ 23 .stdin_dev    00000004  00000000  00000000  0001d82d  2**0
                   CONTENTS, READONLY
- 24 .stdout_dev   00000004  00000000  00000000  0001d82d  2**0
+ 24 .stdout_dev   00000004  00000000  00000000  0001d831  2**0
                   CONTENTS, READONLY
- 25 .sopc_system_name 00000008  00000000  00000000  0001d831  2**0
+ 25 .sopc_system_name 00000008  00000000  00000000  0001d835  2**0
                   CONTENTS, READONLY
- 26 .quartus_project_dir 0000002c  00000000  00000000  0001d839  2**0
+ 26 .quartus_project_dir 00000029  00000000  00000000  0001d83d  2**0
                   CONTENTS, READONLY
- 27 .jdi          000001f2  00000000  00000000  0001d865  2**0
+ 27 .jdi          000001f2  00000000  00000000  0001d866  2**0
                   CONTENTS, READONLY
 SYMBOL TABLE:
 00000000 l    d  .entry	00000000 .entry
@@ -90,7 +90,7 @@ SYMBOL TABLE:
 00000000 l    d  .debug_loc	00000000 .debug_loc
 00000000 l    d  .debug_alt_sim_info	00000000 .debug_alt_sim_info
 00000000 l    d  .debug_ranges	00000000 .debug_ranges
-00000000 l    df *ABS*	00000000 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+00000000 l    df *ABS*	00000000 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
 0000025c l       .text	00000000 alt_after_alt_main
 00000000 l    df *ABS*	00000000 alt_irq_handler.c
 00000000 l    df *ABS*	00000000 alt_instruction_exception_entry.c
@@ -670,11 +670,11 @@ alt_after_alt_main:
      25c:	003fff06 	br	25c <alt_after_alt_main>
 
 00000260 <divideDigits>:
-int stop=0;
-int start=0;
-
-typedef int digits_t[6];
-
+*		   numberDigits
+*	@param number: number being divide on the array
+*	@param numberDigits: array storing the digits
+*	@return void
+**/
 void divideDigits(int number, digits_t numberDigits){
      260:	defffa04 	addi	sp,sp,-24
      264:	dfc00515 	stw	ra,20(sp)
@@ -727,6 +727,11 @@ void divideDigits(int number, digits_t numberDigits){
      2f0:	f800283a 	ret
 
 000002f4 <getDigitDisplay>:
+/** @brief Return the corresponding display code for a
+*		   digit going to the display
+*	@param digit: Number being converted
+*	@return int numbers' display code
+**/
 int getDigitDisplay(int digit){
      2f4:	defff404 	addi	sp,sp,-48
      2f8:	df000b15 	stw	fp,44(sp)
@@ -766,6 +771,10 @@ int getDigitDisplay(int digit){
 
 00000370 <numberDisplayDigits>:
 
+/** @brief Adds the converted digit back to digits array
+*	@param digits: Array of digits being displayed
+*	@return void
+**/
 void numberDisplayDigits(digits_t digits){
      370:	defffb04 	addi	sp,sp,-20
      374:	dfc00415 	stw	ra,16(sp)
@@ -812,6 +821,10 @@ void numberDisplayDigits(digits_t digits){
 
 000003f4 <writeDisplays>:
 
+/** @brief Writes the digits to the 7 segments on the FPGA
+*	@param digits: Array of digits being displayed
+*	@return void
+**/
 void writeDisplays(digits_t digits){
      3f4:	defffd04 	addi	sp,sp,-12
      3f8:	dfc00215 	stw	ra,8(sp)
@@ -860,6 +873,10 @@ void writeDisplays(digits_t digits){
      480:	f800283a 	ret
 
 00000484 <timer_miliseconds>:
+
+/** @brief Runs a cycle of the miliseconds mode
+*	@return void
+**/
 static void timer_miliseconds(){
      484:	defff804 	addi	sp,sp,-32
      488:	dfc00715 	stw	ra,28(sp)
@@ -896,6 +913,9 @@ static void timer_miliseconds(){
 
 000004f0 <timer_seconds>:
 
+/** @brief Runs a cycle of the seconds mode
+*	@return void
+**/
 static void timer_seconds(){
      4f0:	defff804 	addi	sp,sp,-32
      4f4:	dfc00715 	stw	ra,28(sp)
@@ -946,6 +966,11 @@ static void timer_seconds(){
      58c:	f800283a 	ret
 
 00000590 <timer_full>:
+
+/** @brief Runs a cycle of the minutes, seconds
+*		   and miliseconds mode
+*	@return void
+**/
 static void timer_full(){
      590:	defff204 	addi	sp,sp,-56
      594:	dfc00d15 	stw	ra,52(sp)
@@ -1073,6 +1098,9 @@ static void timer_full(){
 
 000006ec <timer_isr>:
 
+/** @brief Runs the interrupt for timer
+*	@return void
+**/
 static void timer_isr(void *context)
 {
      6ec:	defffd04 	addi	sp,sp,-12
@@ -1116,7 +1144,9 @@ static void timer_isr(void *context)
 
 0000075c <stop_isr>:
 
-
+/** @brief Runs the interrupt for stopping
+*	@return void
+**/
 static void stop_isr(void *context)
 {
      75c:	defffe04 	addi	sp,sp,-8
@@ -1135,6 +1165,10 @@ static void stop_isr(void *context)
      784:	f800283a 	ret
 
 00000788 <start_isr>:
+
+/** @brief Runs the interrupt for starting
+*	@return void
+**/
 static void start_isr(void *context)
 {
      788:	defff704 	addi	sp,sp,-36

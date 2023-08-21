@@ -6,7 +6,7 @@ JedecChain;
 	P ActionCode(Ign)
 		Device PartName(SOCVHPS) MfrSpec(OpMask(0));
 	P ActionCode(Cfg)
-		Device PartName(5CSEMA5F31) Path("C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/output_files/") File("Cronometro.sof") MfrSpec(OpMask(1));
+		Device PartName(5CSEMA5F31) Path("C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/output_files/") File("Cronometro.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 

@@ -2,9 +2,9 @@
  * system.h - SOPC Builder system and BSP software package information
  *
  * Machine generated for CPU 'nios2_gen2_0' in SOPC Builder design 'platform'
- * SOPC Builder design path: C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/platform.sopcinfo
+ * SOPC Builder design path: C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/platform.sopcinfo
  *
- * Generated: Sat Aug 19 21:55:12 CST 2023
+ * Generated: Sun Aug 20 13:37:39 CST 2023
  */
 
 /*

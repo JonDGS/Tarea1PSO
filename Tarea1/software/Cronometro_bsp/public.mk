@@ -86,7 +86,7 @@ ACDS_VERSION := 20.1
 
 # Qsys--generated SOPCINFO file. Required for resolving node instance ID's with 
 # design component names. 
-SOPCINFO_FILE := C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/platform.sopcinfo
+SOPCINFO_FILE := C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/platform.sopcinfo
 
 # Big-Endian operation. 
 # setting BIG_ENDIAN is false

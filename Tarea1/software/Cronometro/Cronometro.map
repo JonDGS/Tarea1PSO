@@ -2,67 +2,67 @@ Archive member included to satisfy reference by file (symbol)
 
 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
                               obj/default/hello_world.o (__divsi3)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
                               obj/default/hello_world.o (alt_ic_isr_register)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o) (alt_irq_active)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o (alt_load)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o (alt_main)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (alt_irq_init)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (close)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (alt_fd_list)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (_do_ctors)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (_do_dtors)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (alt_errno)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (alt_release_fd)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o) (_alt_tick_rate)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o (alt_load)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o (alt_main)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (alt_irq_init)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (close)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (alt_fd_list)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (_do_ctors)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (_do_dtors)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (alt_errno)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (alt_release_fd)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o) (_alt_tick_rate)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (atexit)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (atexit)
 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (exit)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o) (exit)
 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
                               c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_global_impure_ptr)
 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
-                              C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (errno)
+                              C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o) (errno)
 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
                               c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o) (__register_exitproc)
 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
                               c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (__call_exitprocs)
-C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
                               c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_exit)
 
 Allocating common symbols
 Common symbol       size              file
 
-alt_irq             0x100             C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+alt_irq             0x100             C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
 errno               0x4               c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
 
 Memory Configuration
@@ -75,7 +75,7 @@ ram_0            0x0000000000004000 0x0000000000001000
 
 Linker script and memory map
 
-LOAD C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+LOAD C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
 LOAD obj/default/hello_world.o
 LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
 LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
@@ -83,7 +83,7 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
 START GROUP
 LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a
 LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
-LOAD C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a
+LOAD C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a
 LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
 END GROUP
 LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
@@ -92,7 +92,7 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
 
 .entry          0x0000000000000000       0x20
  *(.entry)
- .entry         0x0000000000000000       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .entry         0x0000000000000000       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
                 0x0000000000000000                __reset
 
 .exceptions     0x0000000000000020      0x204
@@ -101,54 +101,54 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
  *(.irq)
  *(.exceptions.entry.label)
  .exceptions.entry.label
-                0x0000000000000020        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000000020        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
                 0x0000000000000020                alt_irq_entry
  .exceptions.entry.label
-                0x0000000000000020        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000000020        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
                 0x0000000000000020                alt_exception
  *(.exceptions.entry.user)
  *(.exceptions.entry.ecc_fatal)
  *(.exceptions.entry)
  .exceptions.entry
-                0x0000000000000020       0x54 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000000020       0x54 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.irqtest.user)
  *(.exceptions.irqtest)
  .exceptions.irqtest
-                0x0000000000000074       0x10 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000000074       0x10 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.irqhandler.user)
  *(.exceptions.irqhandler)
  .exceptions.irqhandler
-                0x0000000000000084        0x4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000000084        0x4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.irqreturn.user)
  *(.exceptions.irqreturn)
  .exceptions.irqreturn
-                0x0000000000000088        0x4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000000088        0x4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.notirq.label)
  .exceptions.notirq.label
-                0x000000000000008c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x000000000000008c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
  *(.exceptions.notirq.user)
  *(.exceptions.notirq)
  .exceptions.notirq
-                0x000000000000008c        0x8 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x000000000000008c        0x8 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.soft.user)
  *(.exceptions.soft)
  *(.exceptions.unknown.user)
  *(.exceptions.unknown)
  .exceptions.unknown
-                0x0000000000000094       0x14 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000000094       0x14 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.exit.label)
  .exceptions.exit.label
-                0x00000000000000a8        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x00000000000000a8        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
  .exceptions.exit.label
-                0x00000000000000a8        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x00000000000000a8        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions.exit.user)
  *(.exceptions.exit)
  .exceptions.exit
-                0x00000000000000a8       0x54 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x00000000000000a8       0x54 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
  *(.exceptions)
- .exceptions    0x00000000000000fc       0xc8 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .exceptions    0x00000000000000fc       0xc8 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
                 0x00000000000000fc                alt_irq_handler
- .exceptions    0x00000000000001c4       0x60 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .exceptions    0x00000000000001c4       0x60 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
                 0x00000000000001c4                alt_instruction_exception_entry
                 0x0000000000000224                PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
                 0x0000000000000020                PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
@@ -198,7 +198,7 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
  *(.init)
  *(.plt)
  *(.text .stub .text.* .gnu.linkonce.t.*)
- .text          0x0000000000000224       0x3c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .text          0x0000000000000224       0x3c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
                 0x0000000000000224                _start
  .text          0x0000000000000260      0x610 obj/default/hello_world.o
                 0x0000000000000260                divideDigits
@@ -211,46 +211,46 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
                 0x00000000000008f0                __modsi3
                 0x0000000000000964                __udivsi3
                 0x00000000000009c8                __umodsi3
- .text          0x0000000000000a24      0x1b0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .text          0x0000000000000a24      0x1b0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
                 0x0000000000000a24                alt_ic_isr_register
                 0x0000000000000a74                alt_ic_irq_enable
                 0x0000000000000afc                alt_ic_irq_disable
                 0x0000000000000b88                alt_ic_irq_enabled
- .text          0x0000000000000bd4       0xe8 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .text          0x0000000000000bd4       0xe8 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
                 0x0000000000000bd4                alt_iic_isr_register
- .text          0x0000000000000cbc        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
- .text          0x0000000000000cbc        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .text          0x0000000000000cbc        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
- .text          0x0000000000000cbc       0xec C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .text          0x0000000000000cbc        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x0000000000000cbc        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x0000000000000cbc        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x0000000000000cbc       0xec C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
                 0x0000000000000d24                alt_load
- .text          0x0000000000000da8       0x60 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .text          0x0000000000000da8       0x60 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
                 0x0000000000000da8                alt_main
- .text          0x0000000000000e08       0x78 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .text          0x0000000000000e08       0x78 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
                 0x0000000000000e08                alt_irq_init
                 0x0000000000000e44                alt_sys_init
- .text          0x0000000000000e80      0x100 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .text          0x0000000000000e80      0x100 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
                 0x0000000000000efc                alt_avalon_timer_sc_init
- .text          0x0000000000000f80      0x118 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .text          0x0000000000000f80      0x118 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
                 0x0000000000000fbc                close
- .text          0x0000000000001098       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .text          0x0000000000001098       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
                 0x0000000000001098                alt_dcache_flush_all
- .text          0x00000000000010b8       0x2c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
- .text          0x00000000000010e4       0x64 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .text          0x00000000000010b8       0x2c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .text          0x00000000000010e4       0x64 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
                 0x00000000000010e4                _do_ctors
- .text          0x0000000000001148       0x64 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .text          0x0000000000001148       0x64 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
                 0x0000000000001148                _do_dtors
- .text          0x00000000000011ac        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
- .text          0x00000000000011ac        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
- .text          0x00000000000011ac       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .text          0x00000000000011ac        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .text          0x00000000000011ac        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x00000000000011ac       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
                 0x00000000000011ac                alt_icache_flush_all
- .text          0x00000000000011cc       0x98 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .text          0x00000000000011cc       0x98 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
                 0x00000000000011cc                alt_exception_cause_generated_bad_addr
- .text          0x0000000000001264       0x70 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .text          0x0000000000001264       0x70 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
                 0x0000000000001264                alt_release_fd
- .text          0x00000000000012d4      0x1ac C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .text          0x00000000000012d4      0x1ac C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
                 0x00000000000012d4                alt_alarm_stop
                 0x0000000000001378                alt_tick
- .text          0x0000000000001480       0x24 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .text          0x0000000000001480       0x24 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
                 0x0000000000001480                altera_nios2_gen2_irq_init
  .text          0x00000000000014a4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
  .text.atexit   0x00000000000014a4       0x14 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
@@ -268,7 +268,7 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
  .text.__call_exitprocs
                 0x000000000000157c      0x120 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
                 0x000000000000157c                __call_exitprocs
- .text          0x000000000000169c       0x38 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .text          0x000000000000169c       0x38 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
                 0x000000000000169c                _exit
  *(.gnu.warning.*)
  *(.fini)
@@ -304,7 +304,7 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
                 0x0000000000004000                PROVIDE (__ram_rodata_start = ABSOLUTE (.))
                 0x0000000000004000                . = ALIGN (0x4)
  *(.rodata .rodata.* .gnu.linkonce.r.*)
- .rodata        0x0000000000004000        0xa C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .rodata        0x0000000000004000        0xa C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
  *(.rodata1)
                 0x000000000000400c                . = ALIGN (0x4)
  *fill*         0x000000000000400a        0x2 
@@ -318,32 +318,32 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
  *(.got)
  *(.data1)
  *(.data .data.* .gnu.linkonce.d.*)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
  .data          0x000000000000400c        0x0 obj/default/hello_world.o
  .data          0x000000000000400c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
- .data          0x000000000000400c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
- .data          0x000000000000400c      0x1a8 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .data          0x000000000000400c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x000000000000400c      0x1a8 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
                 0x000000000000400c                alt_dev_null
                 0x0000000000004034                alt_fd_list
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
- .data          0x00000000000041b4        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .data          0x00000000000041b4        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
  .data          0x00000000000041b4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
  .data          0x00000000000041b4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
  .data          0x00000000000041b4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
@@ -352,20 +352,20 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
  .data          0x00000000000045d8        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
  .data          0x00000000000045d8        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
  .data          0x00000000000045d8        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .data          0x00000000000045d8        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .data          0x00000000000045d8        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
                 0x000000000000c5d8                _gp = ABSOLUTE ((. + 0x8000))
                 [!provide]                        PROVIDE (gp = _gp)
  *(.rwdata .rwdata.*)
  *(.sdata .sdata.* .gnu.linkonce.s.*)
- .sdata         0x00000000000045d8        0x4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .sdata         0x00000000000045d8        0x4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
                 0x00000000000045d8                alt_priority_mask
- .sdata         0x00000000000045dc       0x14 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .sdata         0x00000000000045dc       0x14 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
                 0x00000000000045dc                alt_fs_list
                 0x00000000000045e4                alt_dev_list
                 0x00000000000045ec                alt_max_fd
- .sdata         0x00000000000045f0        0x4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .sdata         0x00000000000045f0        0x4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
                 0x00000000000045f0                alt_errno
- .sdata         0x00000000000045f4        0x8 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .sdata         0x00000000000045f4        0x8 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
                 0x00000000000045f4                alt_alarm_list
  .sdata._global_impure_ptr
                 0x00000000000045fc        0x4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
@@ -393,15 +393,15 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
                 0x0000000000004610                mode
                 0x0000000000004614                stop
                 0x0000000000004618                start
- .sbss          0x000000000000461c        0x4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .sbss          0x000000000000461c        0x4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
                 0x000000000000461c                alt_irq_active
- .sbss          0x0000000000004620        0xc C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .sbss          0x0000000000004620        0xc C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
                 0x0000000000004620                alt_argc
                 0x0000000000004624                alt_argv
                 0x0000000000004628                alt_envp
- .sbss          0x000000000000462c        0x4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .sbss          0x000000000000462c        0x4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
                 0x000000000000462c                alt_instruction_exception_handler
- .sbss          0x0000000000004630        0x8 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .sbss          0x0000000000004630        0x8 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
                 0x0000000000004630                _alt_tick_rate
                 0x0000000000004634                _alt_nticks
  .sbss          0x0000000000004638        0x4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
@@ -412,39 +412,39 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
                 [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
  *(.dynbss)
  *(.bss .bss.* .gnu.linkonce.b.*)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
  .bss           0x000000000000463c        0x0 obj/default/hello_world.o
  .bss           0x000000000000463c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
  .bss           0x000000000000463c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
  .bss           0x000000000000463c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
  .bss           0x000000000000463c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
  .bss           0x000000000000463c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
  .bss           0x000000000000463c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
  .bss           0x000000000000463c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .bss           0x000000000000463c        0x0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .bss           0x000000000000463c        0x0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
  *(COMMON)
- COMMON         0x000000000000463c      0x100 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ COMMON         0x000000000000463c      0x100 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
                 0x000000000000463c                alt_irq
                 0x000000000000473c                . = ALIGN (0x4)
                 0x000000000000473c                __bss_end = ABSOLUTE (.)
@@ -489,32 +489,32 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
  .comment       0x0000000000000000       0x2c obj/default/hello_world.o
                                          0x2d (size before relaxing)
  .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
  .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
  .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
  .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
  .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
  .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
  .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .comment       0x000000000000002c       0x2d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .comment       0x000000000000002c       0x2d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
 
 .debug
  *(.debug)
@@ -531,53 +531,53 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
 .debug_aranges  0x0000000000000000      0x3f8
  *(.debug_aranges)
  .debug_aranges
-                0x0000000000000000       0x28 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+                0x0000000000000000       0x28 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
  .debug_aranges
                 0x0000000000000028       0x20 obj/default/hello_world.o
  .debug_aranges
                 0x0000000000000048       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
  .debug_aranges
-                0x0000000000000068       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+                0x0000000000000068       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
  .debug_aranges
-                0x0000000000000088       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+                0x0000000000000088       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
  .debug_aranges
-                0x00000000000000a8       0x30 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x00000000000000a8       0x30 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
  .debug_aranges
-                0x00000000000000d8       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000000d8       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
  .debug_aranges
-                0x00000000000000f8       0x18 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+                0x00000000000000f8       0x18 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
  .debug_aranges
-                0x0000000000000110       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+                0x0000000000000110       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
  .debug_aranges
-                0x0000000000000130       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+                0x0000000000000130       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
  .debug_aranges
-                0x0000000000000150       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000000150       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
  .debug_aranges
-                0x0000000000000170       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+                0x0000000000000170       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
  .debug_aranges
-                0x0000000000000190       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+                0x0000000000000190       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
  .debug_aranges
-                0x00000000000001b0       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x00000000000001b0       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
  .debug_aranges
-                0x00000000000001d0       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+                0x00000000000001d0       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
  .debug_aranges
-                0x00000000000001f0       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+                0x00000000000001f0       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
  .debug_aranges
-                0x0000000000000210       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+                0x0000000000000210       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
  .debug_aranges
-                0x0000000000000230       0x18 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+                0x0000000000000230       0x18 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
  .debug_aranges
-                0x0000000000000248       0x38 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000000248       0x38 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
  .debug_aranges
-                0x0000000000000280       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000000280       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
  .debug_aranges
-                0x00000000000002a0       0x28 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x00000000000002a0       0x28 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
  .debug_aranges
-                0x00000000000002c8       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+                0x00000000000002c8       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
  .debug_aranges
-                0x00000000000002e8       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+                0x00000000000002e8       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
  .debug_aranges
-                0x0000000000000308       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000000308       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
  .debug_aranges
                 0x0000000000000328       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
  .debug_aranges
@@ -591,203 +591,203 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
  .debug_aranges
                 0x00000000000003b8       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
  .debug_aranges
-                0x00000000000003d8       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+                0x00000000000003d8       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000     0xf3a9
+.debug_info     0x0000000000000000     0xf3ab
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x0000000000000000       0x22 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
- .debug_info    0x0000000000000022      0xc1c obj/default/hello_world.o
- .debug_info    0x0000000000000c3e      0x368 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .debug_info    0x0000000000000fa6      0xbf3 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
- .debug_info    0x0000000000001b99      0xab7 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_info    0x0000000000002650       0x22 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
- .debug_info    0x0000000000002672      0xa3c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .debug_info    0x00000000000030ae       0x8b C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
- .debug_info    0x0000000000003139      0x9f5 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
- .debug_info    0x0000000000003b2e      0xe76 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
- .debug_info    0x00000000000049a4      0x9cb C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
- .debug_info    0x000000000000536f      0xb0b C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
- .debug_info    0x0000000000005e7a      0xc60 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
- .debug_info    0x0000000000006ada      0x934 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_info    0x000000000000740e      0xe95 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
- .debug_info    0x00000000000082a3       0x88 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
- .debug_info    0x000000000000832b       0x88 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
- .debug_info    0x00000000000083b3      0x972 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
- .debug_info    0x0000000000008d25       0x22 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
- .debug_info    0x0000000000008d47      0x934 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
- .debug_info    0x000000000000967b      0x1f1 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
- .debug_info    0x000000000000986c      0x2e9 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
- .debug_info    0x0000000000009b55      0xb84 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
- .debug_info    0x000000000000a6d9      0x955 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
- .debug_info    0x000000000000b02e      0x9a1 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_info    0x000000000000b9cf      0x9dc c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_info    0x000000000000c3ab      0x936 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .debug_info    0x000000000000cce1      0x92c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .debug_info    0x000000000000d60d      0x9db c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_info    0x000000000000dfe8      0xa17 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_info    0x000000000000e9ff      0x9aa C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .debug_info    0x0000000000000000       0x22 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000022      0xc1e obj/default/hello_world.o
+ .debug_info    0x0000000000000c40      0x368 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000000fa8      0xbf3 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000001b9b      0xab7 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x0000000000002652       0x22 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000002674      0xa3c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x00000000000030b0       0x8b C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x000000000000313b      0x9f5 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000000000003b30      0xe76 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .debug_info    0x00000000000049a6      0x9cb C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000005371      0xb0b C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x0000000000005e7c      0xc60 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .debug_info    0x0000000000006adc      0x934 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000007410      0xe95 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x00000000000082a5       0x88 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x000000000000832d       0x88 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x00000000000083b5      0x972 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000008d27       0x22 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000008d49      0x934 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000000000000967d      0x1f1 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x000000000000986e      0x2e9 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x0000000000009b57      0xb84 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x000000000000a6db      0x955 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x000000000000b030      0x9a1 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_info    0x000000000000b9d1      0x9dc c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_info    0x000000000000c3ad      0x936 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_info    0x000000000000cce3      0x92c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_info    0x000000000000d60f      0x9db c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_info    0x000000000000dfea      0xa17 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x000000000000ea01      0x9aa C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
 
-.debug_abbrev   0x0000000000000000     0x3615
+.debug_abbrev   0x0000000000000000     0x3626
  *(.debug_abbrev)
- .debug_abbrev  0x0000000000000000       0x12 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
- .debug_abbrev  0x0000000000000012      0x2d4 obj/default/hello_world.o
- .debug_abbrev  0x00000000000002e6      0x103 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .debug_abbrev  0x00000000000003e9      0x2e8 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
- .debug_abbrev  0x00000000000006d1      0x2a7 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_abbrev  0x0000000000000978       0x12 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
- .debug_abbrev  0x000000000000098a      0x26b C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .debug_abbrev  0x0000000000000bf5       0x44 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
- .debug_abbrev  0x0000000000000c39      0x21c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
- .debug_abbrev  0x0000000000000e55      0x21e C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
- .debug_abbrev  0x0000000000001073      0x239 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
- .debug_abbrev  0x00000000000012ac      0x2ca C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
- .debug_abbrev  0x0000000000001576      0x23f C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
- .debug_abbrev  0x00000000000017b5      0x1e0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_abbrev  0x0000000000001995      0x212 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
- .debug_abbrev  0x0000000000001ba7       0x81 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
- .debug_abbrev  0x0000000000001c28       0x81 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
- .debug_abbrev  0x0000000000001ca9      0x1df C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
- .debug_abbrev  0x0000000000001e88       0x12 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
- .debug_abbrev  0x0000000000001e9a      0x1e0 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
- .debug_abbrev  0x000000000000207a       0xea C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
- .debug_abbrev  0x0000000000002164       0xea C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
- .debug_abbrev  0x000000000000224e      0x2b5 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
- .debug_abbrev  0x0000000000002503      0x1e5 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
- .debug_abbrev  0x00000000000026e8      0x243 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_abbrev  0x000000000000292b      0x230 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_abbrev  0x0000000000002b5b      0x1c9 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .debug_abbrev  0x0000000000002d24      0x1d5 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .debug_abbrev  0x0000000000002ef9      0x263 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_abbrev  0x000000000000315c      0x26c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_abbrev  0x00000000000033c8      0x24d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .debug_abbrev  0x0000000000000000       0x12 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012      0x2e5 obj/default/hello_world.o
+ .debug_abbrev  0x00000000000002f7      0x103 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000000000003fa      0x2e8 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x00000000000006e2      0x2a7 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x0000000000000989       0x12 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x000000000000099b      0x26b C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x0000000000000c06       0x44 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x0000000000000c4a      0x21c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000000e66      0x21e C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000001084      0x239 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000012bd      0x2ca C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x0000000000001587      0x23f C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00000000000017c6      0x1e0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x00000000000019a6      0x212 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x0000000000001bb8       0x81 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x0000000000001c39       0x81 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x0000000000001cba      0x1df C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000001e99       0x12 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x0000000000001eab      0x1e0 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x000000000000208b       0xea C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x0000000000002175       0xea C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x000000000000225f      0x2b5 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x0000000000002514      0x1e5 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00000000000026f9      0x243 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x000000000000293c      0x230 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000002b6c      0x1c9 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000002d35      0x1d5 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000002f0a      0x263 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x000000000000316d      0x26c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000000033d9      0x24d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
 
-.debug_line     0x0000000000000000     0x32d8
+.debug_line     0x0000000000000000     0x32d5
  *(.debug_line)
- .debug_line    0x0000000000000000       0x66 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
- .debug_line    0x0000000000000066      0x334 obj/default/hello_world.o
- .debug_line    0x000000000000039a      0x2f9 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .debug_line    0x0000000000000693      0x203 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
- .debug_line    0x0000000000000896      0x1dc C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_line    0x0000000000000a72       0x6b C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
- .debug_line    0x0000000000000add      0x1b4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .debug_line    0x0000000000000c91       0x50 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
- .debug_line    0x0000000000000ce1      0x1d2 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
- .debug_line    0x0000000000000eb3      0x2b4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
- .debug_line    0x0000000000001167      0x198 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
- .debug_line    0x00000000000012ff      0x213 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
- .debug_line    0x0000000000001512      0x23e C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
- .debug_line    0x0000000000001750      0x17f C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_line    0x00000000000018cf      0x285 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
- .debug_line    0x0000000000001b54       0x66 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
- .debug_line    0x0000000000001bba       0x66 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
- .debug_line    0x0000000000001c20      0x131 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
- .debug_line    0x0000000000001d51       0xb3 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
- .debug_line    0x0000000000001e04      0x17d C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
- .debug_line    0x0000000000001f81       0xd3 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
- .debug_line    0x0000000000002054       0xb6 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
- .debug_line    0x000000000000210a      0x240 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
- .debug_line    0x000000000000234a      0x137 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
- .debug_line    0x0000000000002481      0x201 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_line    0x0000000000002682      0x229 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_line    0x00000000000028ab      0x166 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .debug_line    0x0000000000002a11      0x1d8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .debug_line    0x0000000000002be9      0x289 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_line    0x0000000000002e72      0x301 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_line    0x0000000000003173      0x165 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .debug_line    0x0000000000000000       0x66 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066      0x331 obj/default/hello_world.o
+ .debug_line    0x0000000000000397      0x2f9 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000000690      0x203 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x0000000000000893      0x1dc C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x0000000000000a6f       0x6b C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x0000000000000ada      0x1b4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x0000000000000c8e       0x50 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x0000000000000cde      0x1d2 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .debug_line    0x0000000000000eb0      0x2b4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000000000001164      0x198 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00000000000012fc      0x213 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x000000000000150f      0x23e C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .debug_line    0x000000000000174d      0x17f C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x00000000000018cc      0x285 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000000000001b51       0x66 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x0000000000001bb7       0x66 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x0000000000001c1d      0x131 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000001d4e       0xb3 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x0000000000001e01      0x17d C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000001f7e       0xd3 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x0000000000002051       0xb6 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x0000000000002107      0x240 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x0000000000002347      0x137 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x000000000000247e      0x201 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_line    0x000000000000267f      0x229 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_line    0x00000000000028a8      0x166 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000002a0e      0x1d8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_line    0x0000000000002be6      0x289 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000002e6f      0x301 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000003170      0x165 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
 
 .debug_frame    0x0000000000000000      0x7d8
  *(.debug_frame)
  .debug_frame   0x0000000000000000      0x1b8 obj/default/hello_world.o
  .debug_frame   0x00000000000001b8       0x50 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .debug_frame   0x0000000000000208       0xa4 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
- .debug_frame   0x00000000000002ac       0x38 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_frame   0x00000000000002e4       0x38 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .debug_frame   0x000000000000031c       0x5c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
- .debug_frame   0x0000000000000378       0x2c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
- .debug_frame   0x00000000000003a4       0x60 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
- .debug_frame   0x0000000000000404       0x60 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
- .debug_frame   0x0000000000000464       0x60 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
- .debug_frame   0x00000000000004c4       0x34 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_frame   0x00000000000004f8       0x34 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
- .debug_frame   0x000000000000052c       0x38 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
- .debug_frame   0x0000000000000564       0x38 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
- .debug_frame   0x000000000000059c       0x34 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
- .debug_frame   0x00000000000005d0       0x5c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
- .debug_frame   0x000000000000062c       0x34 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
- .debug_frame   0x0000000000000660       0x5c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
- .debug_frame   0x00000000000006bc       0x34 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000000208       0xa4 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x00000000000002ac       0x38 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x00000000000002e4       0x38 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x000000000000031c       0x5c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000378       0x2c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x00000000000003a4       0x60 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000404       0x60 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x0000000000000464       0x60 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x00000000000004c4       0x34 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x00000000000004f8       0x34 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000000000000052c       0x38 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x0000000000000564       0x38 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x000000000000059c       0x34 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000000000005d0       0x5c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x000000000000062c       0x34 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x0000000000000660       0x5c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x00000000000006bc       0x34 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
  .debug_frame   0x00000000000006f0       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
  .debug_frame   0x0000000000000710       0x28 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
  .debug_frame   0x0000000000000738       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
  .debug_frame   0x0000000000000758       0x54 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x00000000000007ac       0x2c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+ .debug_frame   0x00000000000007ac       0x2c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
 
-.debug_str      0x0000000000000000     0x1835
+.debug_str      0x0000000000000000     0x182f
  *(.debug_str)
- .debug_str     0x0000000000000000       0x63 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
- .debug_str     0x0000000000000063      0x585 obj/default/hello_world.o
-                                        0x655 (size before relaxing)
- .debug_str     0x00000000000005e8      0x193 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_str     0x0000000000000000       0x60 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .debug_str     0x0000000000000060      0x582 obj/default/hello_world.o
+                                        0x652 (size before relaxing)
+ .debug_str     0x00000000000005e2      0x193 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
                                         0x1de (size before relaxing)
- .debug_str     0x000000000000077b       0xf1 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
-                                        0x62d (size before relaxing)
- .debug_str     0x000000000000086c       0x4c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
-                                        0x5e9 (size before relaxing)
- .debug_str     0x00000000000008b8       0x18 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
-                                         0x6c (size before relaxing)
- .debug_str     0x00000000000008d0       0x3a C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
-                                        0x598 (size before relaxing)
- .debug_str     0x000000000000090a       0x29 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
-                                        0x14e (size before relaxing)
- .debug_str     0x0000000000000933       0xf3 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
-                                        0x606 (size before relaxing)
- .debug_str     0x0000000000000a26      0x223 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
-                                        0x7ca (size before relaxing)
- .debug_str     0x0000000000000c49       0x8e C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
-                                        0x5bd (size before relaxing)
- .debug_str     0x0000000000000cd7       0xa9 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
-                                        0x686 (size before relaxing)
- .debug_str     0x0000000000000d80       0x38 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
-                                        0x657 (size before relaxing)
- .debug_str     0x0000000000000db8       0x34 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
-                                        0x549 (size before relaxing)
- .debug_str     0x0000000000000dec       0x32 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
-                                        0x7a7 (size before relaxing)
- .debug_str     0x0000000000000e1e       0x48 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
-                                         0xe4 (size before relaxing)
- .debug_str     0x0000000000000e66       0x4c C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
-                                         0xe3 (size before relaxing)
- .debug_str     0x0000000000000eb2       0x14 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_str     0x0000000000000775       0xf1 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic.o)
+                                        0x62a (size before relaxing)
+ .debug_str     0x0000000000000866       0x4c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x5e6 (size before relaxing)
+ .debug_str     0x00000000000008b2       0x18 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+                                         0x69 (size before relaxing)
+ .debug_str     0x00000000000008ca       0x3a C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+                                        0x595 (size before relaxing)
+ .debug_str     0x0000000000000904       0x29 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_vars.o)
+                                        0x14b (size before relaxing)
+ .debug_str     0x000000000000092d       0xf3 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_load.o)
+                                        0x603 (size before relaxing)
+ .debug_str     0x0000000000000a20      0x223 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_main.o)
+                                        0x7c7 (size before relaxing)
+ .debug_str     0x0000000000000c43       0x8e C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_sys_init.o)
+                                        0x5ba (size before relaxing)
+ .debug_str     0x0000000000000cd1       0xa9 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_avalon_timer_sc.o)
+                                        0x683 (size before relaxing)
+ .debug_str     0x0000000000000d7a       0x38 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_close.o)
+                                        0x654 (size before relaxing)
+ .debug_str     0x0000000000000db2       0x34 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
                                         0x546 (size before relaxing)
- .debug_str     0x0000000000000ec6       0x1e C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
-                                         0x72 (size before relaxing)
- .debug_str     0x0000000000000ee4       0x34 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
-                                        0x549 (size before relaxing)
- .debug_str     0x0000000000000f18      0x48b C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
-                                        0x5b4 (size before relaxing)
- .debug_str     0x00000000000013a3       0x28 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
-                                        0x205 (size before relaxing)
- .debug_str     0x00000000000013cb       0x6e C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
-                                        0x653 (size before relaxing)
- .debug_str     0x0000000000001439       0x3b C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
-                                        0x55d (size before relaxing)
- .debug_str     0x0000000000001474      0x17b c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000de6       0x32 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_dev.o)
+                                        0x7a4 (size before relaxing)
+ .debug_str     0x0000000000000e18       0x48 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_ctors.o)
+                                         0xe1 (size before relaxing)
+ .debug_str     0x0000000000000e60       0x4c C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_do_dtors.o)
+                                         0xe0 (size before relaxing)
+ .debug_str     0x0000000000000eac       0x14 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_errno.o)
+                                        0x543 (size before relaxing)
+ .debug_str     0x0000000000000ec0       0x1e C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+                                         0x6f (size before relaxing)
+ .debug_str     0x0000000000000ede       0x34 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x546 (size before relaxing)
+ .debug_str     0x0000000000000f12      0x48b C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x5b1 (size before relaxing)
+ .debug_str     0x000000000000139d       0x28 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_release_fd.o)
+                                        0x202 (size before relaxing)
+ .debug_str     0x00000000000013c5       0x6e C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_tick.o)
+                                        0x650 (size before relaxing)
+ .debug_str     0x0000000000001433       0x3b C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x55a (size before relaxing)
+ .debug_str     0x000000000000146e      0x17b c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
                                         0x600 (size before relaxing)
- .debug_str     0x00000000000015ef       0x54 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_str     0x00000000000015e9       0x54 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
                                         0x601 (size before relaxing)
- .debug_str     0x0000000000001643       0xd9 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_str     0x000000000000163d       0xd9 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
                                         0x5b5 (size before relaxing)
- .debug_str     0x000000000000171c       0x41 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_str     0x0000000000001716       0x41 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
                                         0x5bc (size before relaxing)
- .debug_str     0x000000000000175d       0x5a c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000001757       0x5a c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
                                         0x61e (size before relaxing)
- .debug_str     0x00000000000017b7       0x54 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_str     0x00000000000017b1       0x54 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
                                         0x5fe (size before relaxing)
- .debug_str     0x000000000000180b       0x2a C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
-                                        0x552 (size before relaxing)
+ .debug_str     0x0000000000001805       0x2a C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exit.o)
+                                        0x54f (size before relaxing)
 
 .debug_loc      0x0000000000000000      0x8e5
  *(.debug_loc)
@@ -816,7 +816,7 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
                 0x0000000000000000       0x10
  *(.debug_alt_sim_info)
  .debug_alt_sim_info
-                0x0000000000000000       0x10 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+                0x0000000000000000       0x10 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
                 0x0000000000005000                __alt_data_end = 0x5000
                 0x0000000000005000                PROVIDE (__alt_stack_pointer = __alt_data_end)
                 [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
@@ -825,12 +825,12 @@ LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nio
 OUTPUT(Cronometro.elf elf32-littlenios2)
 
 .debug_ranges   0x0000000000000000      0x170
- .debug_ranges  0x0000000000000000       0x20 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000000       0x20 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp/obj/HAL/src/crt0.o
  .debug_ranges  0x0000000000000020       0x70 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
- .debug_ranges  0x0000000000000090       0x28 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
- .debug_ranges  0x00000000000000b8       0x10 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
- .debug_ranges  0x00000000000000c8       0x30 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
- .debug_ranges  0x00000000000000f8       0x18 C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_ranges  0x0000000000000090       0x28 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x00000000000000b8       0x10 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x00000000000000c8       0x30 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x00000000000000f8       0x18 C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/software/Cronometro_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
  .debug_ranges  0x0000000000000110       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
  .debug_ranges  0x0000000000000120       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
  .debug_ranges  0x0000000000000130       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)

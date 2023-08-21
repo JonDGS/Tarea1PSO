@@ -2,11 +2,11 @@
 <sch:Settings xmlns:sch="http://www.altera.com/embeddedsw/bsp/schema">
         <BspType>hal</BspType>
         <BspVersion>default</BspVersion>
-        <BspGeneratedTimeStamp>Aug 19, 2023 10:33:34 PM</BspGeneratedTimeStamp>
-        <BspGeneratedUnixTimeStamp>1692506014325</BspGeneratedUnixTimeStamp>
-        <BspGeneratedLocation>C:\TEC\Operativos\Tarea1Git\Tarea1PSO\Tarea1\software\Cronometro_bsp</BspGeneratedLocation>
+        <BspGeneratedTimeStamp>Aug 20, 2023 8:20:55 PM</BspGeneratedTimeStamp>
+        <BspGeneratedUnixTimeStamp>1692584455420</BspGeneratedUnixTimeStamp>
+        <BspGeneratedLocation>C:\TEC\operativos\Tarea1\Tarea1PSO\Tarea1\software\Cronometro_bsp</BspGeneratedLocation>
         <BspSettingsFile>settings.bsp</BspSettingsFile>
-        <SopcDesignFile>C:\TEC\Operativos\Tarea1Git\Tarea1PSO\Tarea1\platform.sopcinfo</SopcDesignFile>
+        <SopcDesignFile>C:\TEC\operativos\Tarea1\Tarea1PSO\Tarea1\platform.sopcinfo</SopcDesignFile>
         <JdiFile>default</JdiFile>
         <Cpu>nios2_gen2_0</Cpu>
         <SchemaVersion>1.9</SchemaVersion>

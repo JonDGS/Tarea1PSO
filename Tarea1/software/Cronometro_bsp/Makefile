@@ -99,7 +99,7 @@ ACDS_VERSION := 20.1
 # BUILD_NUMBER: 711
 
 SETTINGS_FILE := settings.bsp
-SOPC_FILE := C:/TEC/Operativos/Tarea1Git/Tarea1PSO/Tarea1/platform.sopcinfo
+SOPC_FILE := C:/TEC/operativos/Tarea1/Tarea1PSO/Tarea1/platform.sopcinfo
 
 #-------------------------------------------------------------------------------
 #                             TOOL & COMMAND DEFINITIONS
